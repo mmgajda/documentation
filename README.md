@@ -6,4 +6,4 @@
 * [Ethan Daniel T. Sinson](./eds6.md)
 * [Nickole Carranza - nc427](./nc427.md)
 * [SamirHall](./ska46.md)
- 
+* [Gabriel Eaton - ge64](./ge64.md)
