@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# documentation
 
-# Nickole Carranza | [nc427](C:\Users\nicko\.vscode\documentation-1\nc427.md)
-
-=======
 # Task Assignments
-[Benjamin Shuster - bentzi-shuster](./bentzi-shuster.md)
-
-
-[Michelle Bautista - michellebau](./michellebau.md)
->>>>>>> c5280fe09345b28fa2b7fd400dcef6b5920e484a
+* [Benjamin Shuster - bentzi-shuster](./bentzi-shuster.md)
+* [mmgajda](./mmgajda.md)
+* [Michelle Bautista - michellebau](./michellebau.md)
+* [Arqam Usman Ali - aa358](./aa358.md)
+* [Nickole Carranza - nc427](./nc427.md)
