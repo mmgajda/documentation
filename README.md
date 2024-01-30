@@ -1,4 +1,7 @@
 # Task Assignments
 [Benjamin Shuster - bentzi-shuster](./bentzi-shuster.md)
 
-[jennifer kane - jennkanee](jennkanee.md)
+
+[Michelle Bautista - michellebau](./michellebau.md)
+
+[Jennifer Kane - jennkanee](jennkanee.md)
