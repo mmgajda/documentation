@@ -10,3 +10,4 @@
 * [ElizabethOluwasanmi-eoo2](./elizabetholu.md)
 * [Gabriel Eaton - ge64](./ge64.md)
 * [jennifer kane - jennkanee](./jennkanee.md)
+* [Kevin Chavez - kjc47](./KevinChavez.md)
