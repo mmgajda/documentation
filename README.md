@@ -6,6 +6,7 @@
 * [Ethan Daniel T. Sinson](./eds6.md)
 * [Nickole Carranza - nc427](./nc427.md)
 * [SamirHall](./ska46.md)
+* [Julian Lechner - jll38](./jll38.md)
 * [ElizabethOluwasanmi-eoo2](./elizabetholu.md)
 * [Gabriel Eaton - ge64](./ge64.md)
 * [jennifer kane - jennkanee](./jennkanee.md)
